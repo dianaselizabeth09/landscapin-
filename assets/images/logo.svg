@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="42" fill="#2f6b3e"/>
+  <rect x="18" y="18" width="164" height="164" rx="30" fill="#20332a" opacity="0.35"/>
+  <path d="M40 150 L40 96 L82 72 L124 96 L124 150 Z" fill="#f6fbf4"/>
+  <path d="M78 150 L78 112 L104 96 L104 150 Z" fill="#5da873"/>
+  <circle cx="132" cy="62" r="14" fill="#a3c98a"/>
+  <rect x="126" y="72" width="12" height="34" rx="6" fill="#6f5331"/>
+  <text x="100" y="184" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="#f6fbf4" text-anchor="middle">M&amp;J</text>
+</svg>

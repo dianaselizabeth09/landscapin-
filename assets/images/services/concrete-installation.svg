@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#20332a"/>
+      <stop offset="1" stop-color="#3d5144"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <text x="40" y="90" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#f6fbf4">Concrete Installation</text>
+  
+        <rect x="110" y="230" width="580" height="120" rx="12" fill="#b9c4bd"/>
+        <rect x="110" y="370" width="580" height="120" rx="12" fill="#a4b1a9"/>
+        <path d="M110 290h580M400 230v120M400 370v120" stroke="#8a9a90" stroke-width="8"/>
+        <path d="M180 230v-70M180 160h-40" stroke="#f6fbf4" stroke-width="12" stroke-linecap="round"/>
+        <circle cx="480" cy="160" r="46" stroke="#f6fbf4" stroke-width="10" fill="none"/>
+</svg>
